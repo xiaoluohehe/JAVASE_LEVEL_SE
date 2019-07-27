@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CollectionTest/CollectionTest.iml" filepath="$PROJECT_DIR$/CollectionTest/CollectionTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVASE_LEVEL.iml" filepath="$PROJECT_DIR$/JAVASE_LEVEL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBCTest/JDBCTest.iml" filepath="$PROJECT_DIR$/JDBCTest/JDBCTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadTest/ThreadTest.iml" filepath="$PROJECT_DIR$/ThreadTest/ThreadTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VolatileDemo/VolatileDemo.iml" filepath="$PROJECT_DIR$/VolatileDemo/VolatileDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8Test/java8Test.iml" filepath="$PROJECT_DIR$/java8Test/java8Test.iml" />
+    </modules>
+  </component>
+</project>
